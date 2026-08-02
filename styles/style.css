@@ -150,6 +150,7 @@ ol {
 
 .content__card-link {
   text-decoration: none;
+  display: block;
   color: #FFF;
 }
 
@@ -291,10 +292,6 @@ ol {
 }
 
 /* Состояния карточек */
-.content__card-link {
-  display: block;
-}
-
 .content__card-link_current {
   background-color: rgb(225 225 225 / 0.3);
 }
